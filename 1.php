@@ -5,5 +5,5 @@ echo phpinfo();
 
 
 
-echo "test github...........1212121212";
+echo "test github1212121212";
 
