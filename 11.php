@@ -1,4 +1,3 @@
 <?php
-
-echo "bbbb";
-
+echo 12121;
+?>
